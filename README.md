@@ -43,6 +43,19 @@ El proyecto se concibe como un **MVP analítico**, no como una plataforma final.
 - Visualización mediante rankings, series temporales y mapas coropléticos.
 
 ---
+## 📊 Visualizaciones principales
+
+### Ranking de riesgo social por distrito (2023)
+![Ranking IRS 2023](figures/fig1_ranking_IRS_2023.png)
+
+### Evolución temporal del IRS (2020–2023)
+![Serie temporal IRS](figures/fig2_serie_IRS_2020_2023.png)
+
+### Variación anual del IRS
+![Variación IRS](figures/fig3_tabla_variacion_IRS.png)
+
+### Mapa coroplético del IRS – Sevilla (2023)
+![Mapa IRS Sevilla](figures/fig4_mapa_IRS_Sevilla_2023.png)
 
 ## 📈 Resultados principales
 
